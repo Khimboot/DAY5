@@ -5,11 +5,6 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-
-		String a = "Hi";
-		String b = "Hi";
-		System.out.println(a);
-		int zipcode;
 	}
 
 }
