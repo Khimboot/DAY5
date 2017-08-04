@@ -8,6 +8,8 @@ public class Main {
 
 		String a = "Hi";
 		System.out.println(a);
+		System.out.println(a);
+		System.out.println(a);
 		
 	}
 
